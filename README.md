@@ -9,4 +9,8 @@ bkbklblkblbl
 
 More blahblah
 
+<<<<<<< HEAD
 Change done in hotfix branch
+=======
+Changed by thirdbranch
+>>>>>>> thirdbranch
