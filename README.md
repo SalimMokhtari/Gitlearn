@@ -9,7 +9,11 @@ bkbklblkblbl
 <<<<<<< HEAD
 
 More blahblah
+<<<<<<< HEAD
 
 
 Change done in hotfix branch
 
+=======
+DONE IN HOTFIX branch
+>>>>>>> hotfix
