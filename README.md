@@ -8,5 +8,4 @@ bkbklbl
 bkbklblkblbl
 
 More blahblah
-
-Change done in hotfix branch
+DONE IN HOTFIX branch
