@@ -6,11 +6,10 @@ This the README
 blblb
 bkbklbl
 bkbklblkblbl
+<<<<<<< HEAD
 
 More blahblah
 
-<<<<<<< HEAD
+
 Change done in hotfix branch
-=======
-Changed by thirdbranch
->>>>>>> thirdbranch
+
